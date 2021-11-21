@@ -1,0 +1,11 @@
+package Maven.Mven;
+
+public class AppiumSetup {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hello world");
+		
+	}
+
+}
